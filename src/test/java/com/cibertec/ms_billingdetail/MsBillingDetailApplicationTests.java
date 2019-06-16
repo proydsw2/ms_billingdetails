@@ -1,0 +1,16 @@
+package com.cibertec.ms_billingdetail;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class MsBillingDetailApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
